@@ -1,0 +1,1 @@
+# websites-that-enforce-weak-passwords
