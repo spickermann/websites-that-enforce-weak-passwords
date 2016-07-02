@@ -3,6 +3,7 @@
 Some website do not allow you to use strong passwords and instead insist on using weak passwords. Let's place this websites on the pillory:
 
 * **Etihad Airways**: Passwords can only be 8-10 characters and can only begin and end with a letter or a number ([source](https://twitter.com/larsklint/status/748615185762484224))
+* **Wells Fargo**: Passwords can only be 6-14 characters ([source](https://i.imgur.com/rwfiOLj.png))
 
 ---
 
